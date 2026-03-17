@@ -1,0 +1,4 @@
+interface:
+  display_name: "X AI Digest"
+  short_description: "抓取 X 转发与推荐内容并筛选 AI/电脑技术资讯"
+  default_prompt: "Use $x-ai-tech-digest to collect reposts and recommended posts from my X account, filter AI/computer tech news, and prepare today's digest."
